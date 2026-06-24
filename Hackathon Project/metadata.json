@@ -1,0 +1,6 @@
+{
+  "name": "LastMinute AI – The Deadline Rescue Agent",
+  "description": "An intelligent productivity companion that helps you plan, prioritize, predict risks, and rescue near-miss deadlines with step-by-step guidance and a Voice Assistant.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
