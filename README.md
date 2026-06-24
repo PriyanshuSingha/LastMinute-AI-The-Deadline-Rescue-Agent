@@ -85,7 +85,7 @@ Unlike traditional reminder applications, LastMinute AI analyzes deadlines, pred
 
 ## GitHub Repository
 
-(Add repository link)
+https://github.com/PriyanshuSingha/LastMinute-AI-The-Deadline-Rescue-Agent.git
 
 ## Author
 
